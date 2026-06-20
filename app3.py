@@ -1,7 +1,7 @@
 import streamlit as st
 import random
 import nltk
-from nltk.sentiment import SentimentIntensityAnalyzer
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 # Download VADER sentiment model (first run only)
 try:
