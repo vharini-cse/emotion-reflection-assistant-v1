@@ -15,3 +15,5 @@ Tech Stack:
 • Streamlit
 • NLTK
 This project was developed as part of International Yoga Day to promote self-awareness, mindfulness, and emotional wellness through technology.
+live URL
+https://emotion-reflection-assistant-v1-dvsr47syc3frwpmuhqkfmw.streamlit.app/
